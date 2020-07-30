@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+58711e5fc1721752b334fea369da9770163b639c refs/heads/develop
+06253f00ef0f5d992e5f4ac736a89f948d587d98 refs/heads/feature/init_run_linux
+faf8ce110373d78c5134846576f88dae5f876ab6 refs/heads/feature/iotlab_visit
+955f6000e9c6a9f1926e6ad7a7b723c3a3640bb1 refs/heads/feature/push_hook_test_CB543574
+0a19d8c6ae5c63659943ca3edad50eda64cbec49 refs/heads/feature/statistic_log
+539772583b743d51144280cb98a35645ab69a74d refs/heads/feature/this_is_very_new
+b2755a348cc536437994d98dc3f99be61ba8c2c2 refs/heads/hotfix/fix_v1.0.1_hello_print
+07387dba3a7ef6a439870c5e0350f0c57dc03ee4 refs/heads/master
